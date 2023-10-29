@@ -13,7 +13,7 @@ This is a personal portfolio website showcasing my skills, projects, and accompl
 
 ## Demo
 
-You can view the live version of my portfolio website [here](https://xsidz.github.io/PRODIGY_WD_04/).
+You can view the live version of my portfolio website [here](https://prodportfolio.netlify.app/).
 
 ## Features
 
