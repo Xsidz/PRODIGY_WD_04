@@ -1067,7 +1067,7 @@ body.night .experience .job_time, body.night .footer_copyright, body.night .intr
 header {
     height: 100vh;
     padding: 36px 100px;
-    background-image: url(images/me1.png);
+    
     background-position: right;
     background-size: contain;
     background-repeat: no-repeat;
